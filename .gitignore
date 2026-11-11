@@ -1,0 +1,29 @@
+# Godot generated cache and imported translations.
+.godot/
+*.translation
+
+# Local builds and exported packages.
+/build/
+/builds/
+/exports/
+*.apk
+*.aab
+*.pck
+
+# Generated Android build files.
+/android/build/
+/android/.gradle/
+
+# Local credentials and Android signing keys.
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+
+# OS metadata and editor temporary files.
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo

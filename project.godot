@@ -1,0 +1,9 @@
+; Minimal Godot 4.x project. Create a main scene in the editor before running the game.
+config_version=5
+
+[application]
+config/name="Inferno"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"

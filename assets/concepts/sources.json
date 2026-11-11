@@ -1,0 +1,105 @@
+{
+  "created_on": "2026-11-11",
+  "generator": "imagegen (built-in tool)",
+  "chat_id": "01a1c824-05e3-78f3-b7d8-2a4b842f1ad6",
+  "files": [
+    {
+      "file": "zombies/zombie_animation_horror.png",
+      "source_filename": "exec-10e866fd-4171-41a4-8ec4-f3e8c40742b6.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2d6630dcb8e5b3b32ca0baead0664a984ca79f511e237ea0fb1face91b6c8948"
+    },
+    {
+      "file": "zombies/zombies_variants_items.png",
+      "source_filename": "exec-6f76d4ec-25af-4054-b23e-a184da1aee6c.png",
+      "width": 1881,
+      "height": 836,
+      "sha256": "6909ec1506b1579ac13b727a4310b399919e69d96a5d1ed88edad4362c587e6a"
+    },
+    {
+      "file": "zombies/archive/zombie_animation_initial.png",
+      "source_filename": "exec-f624eea7-62c9-42ff-98f6-1757e80a5269.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "4a17263fce5d9b91cb44194ff001c68dc006696924d508debbd78cfc0124dc08"
+    },
+    {
+      "file": "zombies/archive/zombies_variants_gray.png",
+      "source_filename": "exec-2b3dc82d-b5ea-4fca-a26e-8b9ce883b910.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "9869c53098d1da44b30b7ed2717232b24892d3297baafce861fdb18501f7dd99"
+    },
+    {
+      "file": "zombies/archive/zombies_variants_color.png",
+      "source_filename": "exec-87f1bc08-78dd-4e70-9d9c-9037cc8c6f46.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "4591c4f693cc577d01ce6b64362654be25b535ec5f5afa499b87da2d8288c5f6"
+    },
+    {
+      "file": "characters/characters_selection.png",
+      "source_filename": "exec-38df9837-6c13-437e-bbbb-b06baf8912c1.png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "8d5bc2d9bf908ef26fde27acb651798b382ba784fb51aad1e92e3a9c45c8f075"
+    },
+    {
+      "file": "characters/archive/01_first_concepts.png",
+      "source_filename": "exec-6b8412e0-6817-4267-8feb-8a0386e73ec8.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "27224c7feb26f6388a8afdc61d36cbf67351ebe756970d066ae76e7d7b0bd1bf"
+    },
+    {
+      "file": "characters/archive/02_alternative_concepts.png",
+      "source_filename": "exec-7873b392-bafa-4db2-805a-5a8b4f32bff3.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e5d8847bf08852ef4a73c4a60cb32b88a173bdf319ec8cae7408aa7a4bf18716"
+    },
+    {
+      "file": "characters/archive/03_prepared_concepts.png",
+      "source_filename": "exec-3cfe6726-4e9e-4b45-a267-7cba280816a0.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0cfe30e39d0d0de416a91a67d7ceb1b34624c507c971a1993999a910e609024e"
+    },
+    {
+      "file": "characters/archive/04_additional_concepts.png",
+      "source_filename": "exec-9ac79f11-c48c-4171-9eaf-afde7543835c.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "496eedbcbee238556ed3e86c453858ecb280b96494699459b40d60b2033e72c8"
+    },
+    {
+      "file": "characters/archive/05_additional_concepts_angry.png",
+      "source_filename": "exec-21029a8b-8778-49ac-93ee-774a9001d991.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "8dd7ef266a241845d4f1018578da4a2bb970af721d6cc4a3b3e5d6a97209b205"
+    },
+    {
+      "file": "characters/archive/06_first_concepts_angry.png",
+      "source_filename": "exec-8fd0cb37-aff6-4d35-9ff1-9a1dd846694e.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9d76733f9bde7414a4cc27b2c1da6d0a2de4bca60e8c7b0620ed991254b534a8"
+    },
+    {
+      "file": "characters/archive/07_additional_concepts_second_set.png",
+      "source_filename": "exec-b9ed646c-5c1a-42f0-b0c7-19558ca777da.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "0fbf3469cb0b127c404bcbb788817c5590202d16c325382ce03c00c7bf3feb98"
+    },
+    {
+      "file": "characters/archive/08_all_18_numbered.png",
+      "source_filename": "exec-6396c1d6-996f-462b-8469-e2f8dedca5bf.png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "9b4ce6571ffecf20c72fad98b05946ae003b6b008a784ccd0fba61c24224bbfb"
+    }
+  ]
+}
